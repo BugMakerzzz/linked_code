@@ -1,0 +1,6 @@
+/test
+/result
+/data
+/__pycache__
+/mlruns
+/config.py
